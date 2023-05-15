@@ -1,0 +1,22 @@
+<#
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_d3da36040163ee0f9176dfe7ced45cdc.png" -OutFile "1.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_87b1052cdc7d46a00a699ef2b76cbfa4.png" -OutFile "2.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_23309e19e3396c5e0b15583caf969417.png" -OutFile "3.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_fbe9b75665ee364ff5759d8821d52373.png" -OutFile "4.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_fed43ab12698df65902ba06727e20c0e.png" -OutFile "5.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_6b729e0b276ed0ad71d2e81c2c1732f3.png" -OutFile "6.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_b9a2121138d6b16b3310f349794af0e1.png" -OutFile "7.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_424582087fdf527e3ad8383fd7654f21.png" -OutFile "8.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_2efbb7db0d4e12acacbce419166115de.png" -OutFile "9.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_bb31faaec1be1ef5ff32dcdc5f37efbf.png" -OutFile "10.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_3c8344f05cc053e27bc7a3ea47412679.png" -OutFile "11.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_96f06e3e52bbd906f93951e362c38d32.png" -OutFile "12.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_88765df09a036906b376704bd8dc27ba.png" -OutFile "13.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_898d52a79941712fd34b9218e0d80837.png" -OutFile "14.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_5aa45e649f5f8ed3a10784bf83d63945.png" -OutFile "15.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_6bf24f16330d65de9a7b686a8c55d48d.png" -OutFile "16.png"
+#>
+
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_2135f24a35ce3606677ceecca5a502cc.png" -OutFile "17.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_10b9f886b513b77ccdd67c8784f1a496.png" -OutFile "18.png"
+Invoke-WebRequest -Uri "https://cdn.discordapp.com/avatar-decoration-presets/v3_a_9cd7e573f48859a995266a0a8345f336.png" -OutFile "19.png"
